@@ -12,7 +12,7 @@ body{
 }
 
 .cabecalho h3{
-    color: #d9c8b4;
+    color: #95c95a;
 }
 
 p .alinha{
@@ -39,4 +39,8 @@ p .alinha{
     color: white;
     text-align: center;
     padding: 5px;
+}
+
+.bg-pamela{
+    background-color: #95c95a;
 }
